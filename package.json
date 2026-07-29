@@ -1,0 +1,6 @@
+{
+  "name": "blockchain-certificate-verification-system",
+  "version": "1.0.0",
+  "description": "Blockchain-based Certificate Verification using React, Node.js, Ethereum, Solidity and IPFS",
+  "license": "MIT"
+}
