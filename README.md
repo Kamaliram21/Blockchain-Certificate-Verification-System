@@ -1,4 +1,4 @@
-# 🔐 Blockchain-Based Certificate Verification System
+#  Blockchain-Based Certificate Verification System
 
 A secure and decentralized web application for verifying academic certificates using **Blockchain, Ethereum, Solidity, IPFS, React, Node.js, and MySQL**.
 
@@ -6,7 +6,7 @@ This project eliminates certificate forgery by storing certificate hashes on the
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Traditional certificate verification systems rely on centralized databases and manual verification, making them vulnerable to:
 
@@ -20,7 +20,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Secure Certificate Upload
 - SHA-256 Hash Generation
@@ -35,7 +35,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```
                      University
@@ -69,7 +69,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Frontend
 
@@ -109,7 +109,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 🔐 Security Features
+#  Security Features
 
 - Password Authentication
 - JWT-Based Authorization
@@ -122,7 +122,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 👥 User Roles
+#  User Roles
 
 ### Admin
 
@@ -144,7 +144,7 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# ⚙️ Project Workflow
+#  Project Workflow
 
 1. University uploads certificate.
 2. Backend generates SHA-256 hash.
@@ -159,39 +159,35 @@ This project solves these challenges using Blockchain technology.
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Blockchain-Certificate-Verification/
 │
 ├── frontend/
 │   ├── src/
-│   ├── public/
 │   └── package.json
 │
 ├── backend/
 │   ├── routes/
 │   ├── controllers/
 │   ├── middleware/
-│   ├── models/
-│   ├── uploads/
+│   ├── utils/
+│   ├── db.js
 │   └── server.js
 │
 ├── smart_contract/
 │   ├── Certificate.sol
-│   ├── migrations/
-│   └── truffle-config.js
 │
 ├── database/
 │   └── schema.sql
 │
-├── README.md
-└── LICENSE
+└──  README.md
 ```
 
 ---
 
-# 📊 Key Functionalities
+#  Key Functionalities
 
 - Certificate Upload
 - Certificate Verification
@@ -205,7 +201,7 @@ Blockchain-Certificate-Verification/
 
 ---
 
-# 🎯 Future Enhancements
+#  Future Enhancements
 
 - Multi-University Support
 - QR Code Verification
@@ -217,7 +213,7 @@ Blockchain-Certificate-Verification/
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 - Login Page
 - Dashboard
@@ -228,7 +224,7 @@ Blockchain-Certificate-Verification/
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 - Unit Testing
 - Smart Contract Testing
@@ -238,7 +234,7 @@ Blockchain-Certificate-Verification/
 
 ---
 
-# 📈 Project Outcome
+#  Project Outcome
 
 - Prevents certificate forgery
 - Ensures secure verification
@@ -248,9 +244,9 @@ Blockchain-Certificate-Verification/
 
 ---
 
-# 👩‍💻 Developed By
+#  Developed By
 
-**Your Name**
+**Kamali R**
 
 B.E. Computer Science Engineering
 
@@ -258,6 +254,6 @@ Anna University
 
 ---
 
-# 📄 License
+#  License
 
 This project is developed for educational and learning purposes.
