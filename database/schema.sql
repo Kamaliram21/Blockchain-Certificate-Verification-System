@@ -1,0 +1,11 @@
+CREATE TABLE certificates(
+
+id INT PRIMARY KEY AUTO_INCREMENT,
+
+certificate_hash VARCHAR(255),
+
+ipfs_cid VARCHAR(255),
+
+uploaded_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+
+);
